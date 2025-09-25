@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\tarun\\miniconda3\\envs\\team-lcb\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\tarun\\miniconda3\\envs\\team-lcb\\Lib\\site-packages"
+  ]
+}

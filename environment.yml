@@ -1,0 +1,23 @@
+name: team-lcb
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - fastapi
+  - uvicorn
+  - geopandas
+  - rasterio
+  - fiona
+  - shapely
+  - pyproj
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - joblib
+  - matplotlib
+  - requests
+  - tqdm
+  - loguru
+  - pydantic
+  - pytest
